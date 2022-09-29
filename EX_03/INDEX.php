@@ -65,7 +65,7 @@ echo $v->sensor4->getValue() . "</br>";
 $v->sensor4->setOperation("/2");
 
 echo $v->sensor5->getValue() . "</br>";
-$v->sensor5->setOperation("*/31");
+$v->sensor5->setOperation("/31");
 
 
 
