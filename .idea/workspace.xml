@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79c4817a-1f84-4c6d-acfc-84ffc3d05b02" name="Changes" comment="EX_03 good">
-      <change afterPath="$PROJECT_DIR$/EX_02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_03/README.md" afterDir="false" />
+    <list default="true" id="79c4817a-1f84-4c6d-acfc-84ffc3d05b02" name="Changes" comment="ex_01 working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_01/INDEX.php" beforeDir="false" afterPath="$PROJECT_DIR$/EX_01/INDEX.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/EX_02/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <workItem from="1664361037749" duration="2190000" />
       <workItem from="1664433590633" duration="322000" />
       <workItem from="1664434231306" duration="12096000" />
-      <workItem from="1664451795542" duration="192000" />
+      <workItem from="1664451795542" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="EX_02,EX_03">
       <created>1664442522287</created>
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664447890080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ex_01 working">
+      <created>1664452094594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664452094594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EX_02,EX_03" />
     <MESSAGE value="EX_03 good" />
-    <option name="LAST_COMMIT_MESSAGE" value="EX_03 good" />
+    <MESSAGE value="ex_01 working" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_01 working" />
   </component>
 </project>

@@ -2,3 +2,4 @@
 
 ## EX_02
 
+Creamos el obejeo
