@@ -1,0 +1,5 @@
+### P3_PHP_POO
+
+## EX_03
+
+Empezaremos con la clase sensor crearemos una variable la podremos en el constructor queremos que sean 0, creemos una función de getvalue, setoperation and getoperation el funcionamiento será el siguiente el getoperation para generar número random entre 4 y 4095 setoperation será lo que me  llamaremos para que los usuario escriba el tipo de operación que quiere hacer en el sensor y el getoperation utilizara la funcion eval para concatenar el stream de manera que pueda operar con el valor, ahora queremos el objeto producto en el objeto productos declaremos los 5 sensores sus variables el constructor directamente crearemos los objetos de sensor una vez fuera de la clase producto crearemos un objeto producto ahora para llamar funciones tendremos que poner el nombre del objeto de producto y pone el nombre del objeto del sensor y utilizaremos la función que evalúen para que nos dé el valor después el mismo procedimiento para hacer el cambio en la operación entonces nos estará dando el valor y nos gustará calculando con lo que le asignemos qué será el STR que hemos creado.
